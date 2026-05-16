@@ -8,19 +8,6 @@ I'm a 1st year computer science student passionate about building intelligent se
 - 💼 Looking for summer internship opportunities
 - 🔭 Currently working on RAG applications
 - 🌱 Learning more about vector databases, LLMs, and modern web frameworks
-- 📫 Reach me at: amine.ezzeddine8@gmail.com
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, JavaScript/TypeScript, Java, C
-
-**Backend:** FastAPI, PHP, Flask
-
-**AI/ML:** Groq, Vector Databases, RAG, LLM
-
-**Tools & Platforms:** Docker, Git, Qdrant, HackTheBox, Burp Suite, Odoo, Figma
-
-**Databases:** Qdrant, MySQL, SQLite
 
 ## 📂 Featured Projects
 
@@ -99,6 +86,21 @@ A desktop management system designed to streamline gym operations by centralizin
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=amine823&show_icons=true&theme=radical)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript/TypeScript, Java, C , HTML/CSS, 
+
+**Backend:** FastAPI, PHP, Flask
+
+**AI/ML:** Groq, Vector Databases, RAG, LLM
+
+**Tools & Platforms:** Docker, Git, Qdrant, HackTheBox, Burp Suite, Odoo, Figma
+
+**Databases:** Qdrant, MySQL, SQLite
+
 
 ## 🔗 Connect With Me
 

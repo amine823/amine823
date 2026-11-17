@@ -1,6 +1,6 @@
 # Hi, I'm Amine Ezzeddine 👋
 
-I'm a 1st year computer science student passionate about building intelligent systems and full-stack applications. I love working with AI/ML technologies and creating tools that solve real problems.
+I'm a 4th year computer science student passionate about building intelligent systems and full-stack applications. I love working with AI/ML technologies and creating tools that solve real problems.
 
 ## 🚀 About Me
 

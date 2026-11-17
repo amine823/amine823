@@ -5,7 +5,6 @@ I'm a 1st year computer science student passionate about building intelligent sy
 ## 🚀 About Me
 
 - 🎓 Studying Computer Science at Polytechnic University Of Sousse
-- 💼 Looking for summer internship opportunities
 - 🔭 Currently working on RAG applications
 - 🌱 Learning more about vector databases, LLMs, and modern web frameworks
 
